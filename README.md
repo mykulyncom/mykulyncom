@@ -9,6 +9,6 @@ I`m a Full-Stack WordPress Developer from Ukraine. Always hungry to keep learnin
 
 <h3>❤️ My Stats</h3>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykulyncom&show_icons=true&bg_color=00000000)
 
 </div>
