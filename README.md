@@ -1,7 +1,7 @@
 <div align="center">
 <h2>👋 Hi, I’m Serhii</h2>
 
-I`m a Full-Stack WordPress Developer from Ukraine. Always hungry to keep learning.
+I`m a WordPress Developer from Ukraine. Always hungry to keep learning.
 
 <h3>❤️ My Skills</h3>
 
